@@ -5,8 +5,8 @@
 replicaCount: 2
 
 image:
-  githubID: abdelbaki.bouzaienne
-  repository: nmch14/demo-java-app
+  githubID: nmch14
+  repository: demo-java-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: V1.0
